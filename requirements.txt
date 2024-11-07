@@ -1,0 +1,6 @@
+sentence_transformers
+bertopic
+bertopic[flair]
+bertopic[gensim]
+bertopic[spacy]
+bertopic[use]
